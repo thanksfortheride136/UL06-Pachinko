@@ -1,0 +1,4 @@
+repository "6.0- Pachinko Machine Game@cooperl136@cloud"
+  path "/"
+    br "/main"
+    co "/main"
